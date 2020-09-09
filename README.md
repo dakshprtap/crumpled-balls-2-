@@ -1,2 +1,1 @@
-# Project-24
-#### WhiteHatjr Project C-24
+# crumpled balls project whitehatjr
